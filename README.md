@@ -1,4 +1,4 @@
-# team-code-poltergeists
+This is a full stack data log with an Angular front end, MySQL database and Spring back end.
 
 /****************************************************************************
 *                                                                           *
